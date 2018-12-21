@@ -9,6 +9,7 @@ Ex: reference_figure.(qasm|qc) -> 1_1a.(qasm|qc)
 [2] Li, R., Alvarez-Rodriguez, U., Lamata, L., & Solano, E. (2017). Approximate Quantum Adders with Genetic Algorithms: An IBM Quantum Experience. Quantum Measurements and Quantum Metrology, 4(1), 1-7.
 
 [3] Deffner, S. (2017). Demonstration of entanglement assisted invariance on IBM's Quantum Experience. Heliyon, 3(11), e00444.
+
 [4] Majumder, A., Mohapatra, S., & Kumar, A. (2017). Experimental Realization of Secure Multiparty Quantum Summation Using Five-Qubit IBM Quantum Computer on Cloud. arXiv preprint arXiv:1707.07460. 
 
 [5] Ghosh, D., Agarwal, P., Pandey, P., Behera, B. K., & Panigrahi, P. K. (2018). Automated error correction in IBM quantum computer and explicit generalization. Quantum Information Processing, 17(6), 153.
@@ -27,7 +28,7 @@ Ex: reference_figure.(qasm|qc) -> 1_1a.(qasm|qc)
 
 [12] U. Alvarez-Rodriguez, M. Sanz, L. Lamata and E. Solano (2018). Quantum Artificial Life in an IBM Quantum Computer.  arXiv preprint arXiv:1711.09442v2.
 
-[13] Vishnu, PK and Joy, Dintomon and Behera, Bikash K and Panigrahi, Prasanta K (2018). Experimental demonstration of non-local controlled-unitary quantum gates using a five-qubit quantum computer. Quantum Information Processing, 17, 10, 274,
+[13] Vishnu PK,  Joy Dintomon, Behera Bikash K and Panigrahi Prasanta K (2018). Experimental demonstration of non-local controlled-unitary quantum gates using a five-qubit quantum computer. Quantum Information Processing, 17, 10, 274,
 Springer.
 
 [14] Sisodia, M., Shukla, A., Thapliyal, K., & Pathak, A. (2017). Design and experimental realization of an optimal scheme for teleportation of an n-qubit quantum state. Quantum Information Processing, 16(12), 292.
@@ -36,7 +37,7 @@ Springer.
 
 [16] Satyajit, S., Srinivasan, K., Behera, B. K., & Panigrahi, P. K. (2018). Nondestructive discrimination of a new family of highly entangled states in IBM quantum computer. Quantum Information Processing, 17(9), 212.
 
-[17] Vishnu, P. K., Joy, D., Behera, B. K., & Panigrahi, P. K. (2018). Experimental demonstration of non-local controlled-unitary quantum gates using a five-qubit quantum computer. Quantum Information Processing, 17(10), 274.
+[17] .
 
 [18] Avinash Dash, Deepankar Sarmah, Bikash K. Behera and Prasanta K. Panigrahi (2018). Exact search algorithm to factorize large biprimes and a triprime on IBM quantum computer. arXiv preprint arXiv:1805.10478v2.
 
