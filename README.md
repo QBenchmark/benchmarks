@@ -1,4 +1,4 @@
-# benchmarks
+# Reversible and Quantum Benchmark Circuits
 
 Architectures
 -------------
