@@ -112,7 +112,7 @@ h q[0];
 cx q[0],q[1];
 cx q[1],q[2];
 tdg q[2];
-s q[0];
+sdg q[0];
 t q[1];
 cx q[0],q[2];
 tdg q[2];

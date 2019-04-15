@@ -96,7 +96,7 @@ H v4
 H v3
 t2 v3 v2
 T* v2
-S v4
+S* v4
 T v3
 H v4
 H v2
