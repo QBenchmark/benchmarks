@@ -1,6 +1,7 @@
-.v v0 v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14 v15
-.i v0 v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14 v15
-X v0
+.v v0 v1 v2 v3 v4 
+.i v0 v1 v2 v3 v4 
+BEGIN
+t1 v0
 t2 v4 v0
 t2 v0 v4
 H v4
@@ -67,4 +68,5 @@ t2 v0 v2
 t2 v3 v0
 t2 v2 v3
 H v0
-X v4
+t1 v4
+END

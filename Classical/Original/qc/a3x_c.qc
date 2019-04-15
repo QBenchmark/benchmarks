@@ -1,52 +1,52 @@
-.v a b c d e
-.i a b c d e
+.v v0 v1 v2 v3 v4 
+.i v0 v1 v2 v3 v4 
 BEGIN
-H e
-t2 d e
-T b
-T d
-T* e
-t2 d e
-t2 c d
-t2 d e
-T* d
-T e
-t2 d e
-H d
-t2 d b
-t2 d a
-T* a
-T* b
-T d
-t2 d a
-t2 d b
-t2 a b
-t2 b d
-T d
-t2 b d
-H d
-t2 d e
-T d
-T* e
-t2 d e
-t2 c d
-t2 d e
-T* d
-T e
-t2 d e
-H d
-H e
-t2 d a
-t2 b d
-T a
-T* d
-t2 b d
-t2 d a
-t2 a b
-t2 d b
-T b
-T* d
-t2 d b
-T* b
-H d
+H v4
+t2 v3 v4
+T v1
+T v3
+T* v4
+t2 v3 v4
+t2 v2 v3
+t2 v3 v4
+T* v3
+T v4
+t2 v3 v4
+H v3
+t2 v3 v1
+t2 v3 v0
+T* v0
+T* v1
+T v3
+t2 v3 v0
+t2 v3 v1
+t2 v0 v1
+t2 v1 v3
+T v3
+t2 v1 v3
+H v3
+t2 v3 v4
+T v3
+T* v4
+t2 v3 v4
+t2 v2 v3
+t2 v3 v4
+T* v3
+T v4
+t2 v3 v4
+H v3
+H v4
+t2 v3 v0
+t2 v1 v3
+T v0
+T* v3
+t2 v1 v3
+t2 v3 v0
+t2 v0 v1
+t2 v3 v1
+T v1
+T* v3
+t2 v3 v1
+T* v1
+H v3
 END
